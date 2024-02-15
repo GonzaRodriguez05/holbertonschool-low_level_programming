@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <bits/libc-header-start.h>
 /**
  * main - gonza size
  *
