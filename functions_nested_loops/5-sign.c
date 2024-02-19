@@ -2,6 +2,7 @@
 
 /**
  * print_sing - check the code for Holberton School students.
+ * @n : number
  *
  * Return: return
  */
