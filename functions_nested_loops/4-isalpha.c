@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _islower - check the code for Holberton School students.
+ * _isalpha - check the code for Holberton School students.
  *
  * Return: Always 0.
  */
